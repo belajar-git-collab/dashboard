@@ -1,5 +1,10 @@
 import React from "react";
 
 export default function Footer() {
-  return <div>Footer</div>;
+  return (
+    <div>
+      Footer
+      <div>Footer cobain aja</div>;
+    </div>
+  );
 }
